@@ -1,5 +1,7 @@
 # AsDecided Editors
 
+[Product site](https://asdecided.com/) · [Ecosystem documentation](https://asdecided.com/docs/ecosystem/) · [Canonical sources](https://asdecided.com/sources)
+
 IDE / editor integrations for [AsDecided](https://github.com/asdecided/core)
 (requirements-as-code) — one subdir per client. Per ADR-092 (one repo per
 concern, subdir per member) this is the single home for the editor clients;
